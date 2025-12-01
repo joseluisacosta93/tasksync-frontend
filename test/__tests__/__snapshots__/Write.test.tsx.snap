@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Write Component se renderiza correctamente y coincide con el snapshot 1`] = `null`;
